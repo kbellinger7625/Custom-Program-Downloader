@@ -35,5 +35,6 @@ For the program, you will need to replace the executable name (shown in blue for
 9: Close command prompt and enjoy your new programs 😉
 Helpful Tips: 
 -	You can also install curl more quickly by directly using the command line by typing this into the command prompt: setx <variable_name> "<variable_value>". 
+-	Link for the video demonstration of how this works is here: https://drive.google.com/drive/u/0/folders/1cQyVhzfs07UAac2UaxtHf4Lja-eP5ERu 
 
 
